@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Portofolio Saya</title>
+  <title>Portofolio - Nurul Fadilah</title>
   <!-- Font Awesome Icons -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   <!-- Google Fonts: Plus Jakarta Sans -->
@@ -131,7 +131,7 @@
     }
 
     .hero-text h1 {
-      font-size: 3rem;
+      font-size: 2.8rem;
       font-weight: 800;
       line-height: 1.2;
       margin-bottom: 1rem;
@@ -371,9 +371,9 @@
     <div class="container">
       <div class="hero-content">
         <div class="hero-text">
-          <span class="badge">Selamat Datang di Portofolio Saya ✨</span>
-          <h1>Halo, Saya <span>Nama Anda</span></h1>
-          <p>Seorang Software Developer & UI/UX Designer yang berfokus membangun aplikasi web modern, rapi, dan mudah digunakan.</p>
+          <span class="badge">SMKN 1 Cipeundeuy ✨</span>
+          <h1>Halo, Saya <br><span>Nurul Fadilah</span></h1>
+          <p>Siswi Jurusan Rekayasa Perangkat Lunak (RPL) di SMKN 1 Cipeundeuy yang antusias dalam pengembangan web dan desain antarmuka.</p>
           
           <!-- Social Media Links -->
           <div class="social-links">
@@ -386,8 +386,8 @@
         
         <div class="hero-image">
           <div class="img-wrapper">
-            <!-- Ganti foto-profil.jpg dengan lokasi foto Anda -->
-            <img src="https://via.placeholder.com/300/f3ebfc/9966cb?text=Foto+Profil" alt="Foto Profil">
+            <!-- Ubah 'foto-nurul.jpg' dengan nama file gambar foto Anda yang disimpan di folder yang sama -->
+            <img src="foto-nurul.jpg" alt="Nurul Fadilah">
           </div>
         </div>
       </div>
@@ -398,7 +398,7 @@
   <section id="projects">
     <div class="container">
       <h2 class="section-title">Hasil Karya & Projek</h2>
-      <p class="section-subtitle">Beberapa hasil karya web dan rancangan antarmuka yang telah saya selesaikan.</p>
+      <p class="section-subtitle">Beberapa hasil karya aplikasi dan desain yang pernah saya buat.</p>
       
       <div class="projects-grid">
         
@@ -408,8 +408,8 @@
             <img src="https://via.placeholder.com/600x400/9966cb/ffffff?text=Aplikasi+Kasir" alt="Aplikasi Kasir" class="project-img">
           </div>
           <div class="project-info">
-            <h3 class="project-title">Aplikasi Kasir Web</h3>
-            <p class="project-desc">Sistem Kasir Point of Sale (POS) interaktif untuk mengelola stok barang, mencatat transaksi, dan mencetak nota pembelanjaan.</p>
+            <h3 class="project-title">Aplikasi Kasir Toko</h3>
+            <p class="project-desc">Sistem Point of Sale (POS) berbasis web untuk mengelola stok produk, mencatat transaksi, dan mencetak struk.</p>
             <div class="project-tags">
               <span class="tag">HTML/CSS</span>
               <span class="tag">PHP</span>
@@ -425,8 +425,8 @@
             <img src="https://via.placeholder.com/600x400/7b43b6/ffffff?text=Laravel+CRUD" alt="Sistem Informasi CRUD" class="project-img">
           </div>
           <div class="project-info">
-            <h3 class="project-title">Sistem Data Siswa & Guru</h3>
-            <p class="project-desc">Aplikasi manajemen data internal sekolah berbasis framework Laravel dengan fitur CRUD lengkap dan navigasi multi-user.</p>
+            <h3 class="project-title">Manajemen Data Sekolah</h3>
+            <p class="project-desc">Aplikasi backend pengelolaan data siswa dan guru menggunakan framework Laravel dengan fitur CRUD lengkap.</p>
             <div class="project-tags">
               <span class="tag">Laravel</span>
               <span class="tag">Blade</span>
@@ -443,11 +443,10 @@
           </div>
           <div class="project-info">
             <h3 class="project-title">Redesain Portal Sekolah</h3>
-            <p class="project-desc">Perancangan ulang antarmuka website profil sekolah untuk meningkatkan kenyamanan pengguna dan keterbacaan informasi.</p>
+            <p class="project-desc">Perancangan antarmuka dan wireframe website profil sekolah agar tampil lebih modern serta ramah pengguna.</p>
             <div class="project-tags">
               <span class="tag">Figma</span>
               <span class="tag">UI/UX</span>
-              <span class="tag">Wireframe</span>
             </div>
             <a href="#" class="project-link">Lihat Detail <i class="fas fa-arrow-right"></i></a>
           </div>
@@ -460,7 +459,7 @@
   <!-- Footer Section -->
   <footer id="contact">
     <div class="container">
-      <p>&copy; 2026 Portofolio. Dibuat dengan warna Purple & Soft White.</p>
+      <p>&copy; 2026 Nurul Fadilah. Dibuat dengan tema Purple & White.</p>
     </div>
   </footer>
 
